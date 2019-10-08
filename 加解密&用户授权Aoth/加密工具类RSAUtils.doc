@@ -1,0 +1,791 @@
+Message-ID: <55199737.727100.1558058961584.JavaMail.admin@A01-R04-I227-85.JD.LOCAL>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_727099_281774452.1558058961584"
+
+------=_Part_727099_281774452.1558058961584
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=8A=A0=E5=AF=86=E5=B7=A5=E5=85=B7=E7=B1=BBRSAUtils</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=8A=A0=E5=AF=86=E5=B7=A5=E5=85=B7=E7=B1=BBRSAUtils</h1>
+    <div class=3D"Section1">
+        <pre><span style=3D"color: rgb(204,120,50);">import </span>sun.misc=
+.BASE64Decoder<span style=3D"color: rgb(204,120,50);">;<br></span><span sty=
+le=3D"color: rgb(204,120,50);">import </span>sun.misc.BASE64Encoder<span st=
+yle=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,1=
+20,50);"><br></span><span style=3D"color: rgb(204,120,50);">import </span>j=
+avax.crypto.Cipher<span style=3D"color: rgb(204,120,50);">;<br></span><span=
+ style=3D"color: rgb(204,120,50);">import </span>java.math.BigInteger<span =
+style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204=
+,120,50);">import </span>java.security.KeyFactory<span style=3D"color: rgb(=
+204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);">import </=
+span>java.security.KeyPair<span style=3D"color: rgb(204,120,50);">;<br></sp=
+an><span style=3D"color: rgb(204,120,50);">import </span>java.security.KeyP=
+airGenerator<span style=3D"color: rgb(204,120,50);">;<br></span><span style=
+=3D"color: rgb(204,120,50);">import </span>java.security.NoSuchAlgorithmExc=
+eption<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"co=
+lor: rgb(204,120,50);">import </span>java.security.interfaces.RSAPrivateKey=
+<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: r=
+gb(204,120,50);">import </span>java.security.interfaces.RSAPublicKey<span s=
+tyle=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,=
+120,50);">import </span>java.security.spec.*<span style=3D"color: rgb(204,1=
+20,50);">;<br></span><span style=3D"color: rgb(204,120,50);">import </span>=
+java.util.HashMap<span style=3D"color: rgb(204,120,50);">;<br></span><span =
+style=3D"color: rgb(204,120,50);"><br></span><span style=3D"color: rgb(204,=
+120,50);">public class </span>RSAUtils {<br><br>    <span style=3D"color: r=
+gb(98,151,85);">/**<br></span><span style=3D"color: rgb(98,151,85);"> * =E7=
+=94=9F=E6=88=90=E5=85=AC=E9=92=A5=E5=92=8C=E7=A7=81=E9=92=A5<br></span><spa=
+n style=3D"color: rgb(98,151,85);"> * @throws java.security.NoSuchAlgorithm=
+Exception<br></span><span style=3D"color: rgb(98,151,85);"> *<br></span><sp=
+an style=3D"color: rgb(98,151,85);"> */<br></span><span style=3D"color: rgb=
+(98,151,85);"> </span><span style=3D"color: rgb(204,120,50);">public static=
+ </span>HashMap&lt;String<span style=3D"color: rgb(204,120,50);">, </span>O=
+bject&gt; <span style=3D"color: rgb(255,198,109);">getKeys</span>() <span s=
+tyle=3D"color: rgb(204,120,50);">throws </span>NoSuchAlgorithmException{<br=
+>        HashMap&lt;String<span style=3D"color: rgb(204,120,50);">, </span>=
+Object&gt; map =3D <span style=3D"color: rgb(204,120,50);">new </span>HashM=
+ap&lt;String<span style=3D"color: rgb(204,120,50);">, </span>Object&gt;()<s=
+pan style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb=
+(204,120,50);"> </span>KeyPairGenerator keyPairGen =3D KeyPairGenerator.<sp=
+an>getInstance</span>(<span style=3D"color: rgb(106,135,89);">"RSA"</span>)=
+<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: r=
+gb(204,120,50);"> </span>keyPairGen.initialize(<span style=3D"color: rgb(10=
+4,151,187);">1024</span>)<span style=3D"color: rgb(204,120,50);">;<br></spa=
+n><span style=3D"color: rgb(204,120,50);"> </span>KeyPair keyPair =3D keyPa=
+irGen.generateKeyPair()<span style=3D"color: rgb(204,120,50);">;<br></span>=
+<span style=3D"color: rgb(204,120,50);"> </span>RSAPublicKey publicKey =3D =
+(RSAPublicKey) keyPair.getPublic()<span style=3D"color: rgb(204,120,50);">;=
+<br></span><span style=3D"color: rgb(204,120,50);"> </span>RSAPrivateKey pr=
+ivateKey =3D (RSAPrivateKey) keyPair.getPrivate()<span style=3D"color: rgb(=
+204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>m=
+ap.put(<span style=3D"color: rgb(106,135,89);">"public"</span><span style=
+=3D"color: rgb(204,120,50);">, </span>publicKey)<span style=3D"color: rgb(2=
+04,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>ma=
+p.put(<span style=3D"color: rgb(106,135,89);">"private"</span><span style=
+=3D"color: rgb(204,120,50);">, </span>privateKey)<span style=3D"color: rgb(=
+204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> return <=
+/span>map<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D=
+"color: rgb(204,120,50);"> </span>}<br>    <span style=3D"color: rgb(98,151=
+,85);">/**<br></span><span style=3D"color: rgb(98,151,85);"> * =E4=BD=BF=E7=
+=94=A8=E6=A8=A1=E5=92=8C=E6=8C=87=E6=95=B0=E7=94=9F=E6=88=90RSA=E5=85=AC=E9=
+=92=A5<br></span><span style=3D"color: rgb(98,151,85);"> * =E6=B3=A8=E6=84=
+=8F=EF=BC=9A=E3=80=90=E6=AD=A4=E4=BB=A3=E7=A0=81=E7=94=A8=E4=BA=86=E9=BB=98=
+=E8=AE=A4=E8=A1=A5=E4=BD=8D=E6=96=B9=E5=BC=8F=EF=BC=8C=E4=B8=BARSA/None/PKC=
+S1Padding=EF=BC=8C=E4=B8=8D=E5=90=8CJDK=E9=BB=98=E8=AE=A4=E7=9A=84=E8=A1=A5=
+=E4=BD=8D=E6=96=B9=E5=BC=8F=E5=8F=AF=E8=83=BD=E4=B8=8D=E5=90=8C=EF=BC=8C=E5=
+=A6=82Android=E9=BB=98=E8=AE=A4=E6=98=AFRSA<br></span><span style=3D"color:=
+ rgb(98,151,85);"> * /None/NoPadding=E3=80=91<br></span><span style=3D"colo=
+r: rgb(98,151,85);"> *<br></span><span style=3D"color: rgb(98,151,85);"> * =
+@param </span><span style=3D"color: rgb(138,101,59);">modulus<br></span><sp=
+an style=3D"color: rgb(138,101,59);"> </span><span style=3D"color: rgb(98,1=
+51,85);">* =E6=A8=A1<br></span><span style=3D"color: rgb(98,151,85);"> * @p=
+aram </span><span style=3D"color: rgb(138,101,59);">exponent<br></span><spa=
+n style=3D"color: rgb(138,101,59);"> </span><span style=3D"color: rgb(98,15=
+1,85);">* =E6=8C=87=E6=95=B0<br></span><span style=3D"color: rgb(98,151,85)=
+;"> * @return<br></span><span style=3D"color: rgb(98,151,85);"> */<br></spa=
+n><span style=3D"color: rgb(98,151,85);"> </span><span style=3D"color: rgb(=
+204,120,50);">public static </span>RSAPublicKey <span style=3D"color: rgb(2=
+55,198,109);">getPublicKey</span>(String modulus<span style=3D"color: rgb(2=
+04,120,50);">, </span>String exponent) {<br>        <span style=3D"color: r=
+gb(204,120,50);">try </span>{<br>            BigInteger b1 =3D <span style=
+=3D"color: rgb(204,120,50);">new </span>BigInteger(modulus)<span style=3D"c=
+olor: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"=
+> </span>BigInteger b2 =3D <span style=3D"color: rgb(204,120,50);">new </sp=
+an>BigInteger(exponent)<span style=3D"color: rgb(204,120,50);">;<br></span>=
+<span style=3D"color: rgb(204,120,50);"> </span>KeyFactory keyFactory =3D K=
+eyFactory.<span>getInstance</span>(<span style=3D"color: rgb(106,135,89);">=
+"RSA"</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span styl=
+e=3D"color: rgb(204,120,50);"> </span>RSAPublicKeySpec keySpec =3D <span st=
+yle=3D"color: rgb(204,120,50);">new </span>RSAPublicKeySpec(b1<span style=
+=3D"color: rgb(204,120,50);">, </span>b2)<span style=3D"color: rgb(204,120,=
+50);">;<br></span><span style=3D"color: rgb(204,120,50);"> return </span>(R=
+SAPublicKey) keyFactory.generatePublic(keySpec)<span style=3D"color: rgb(20=
+4,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>} <=
+span style=3D"color: rgb(204,120,50);">catch </span>(Exception e) {<br>    =
+        e.printStackTrace()<span style=3D"color: rgb(204,120,50);">;<br></s=
+pan><span style=3D"color: rgb(204,120,50);"> return null;<br></span><span s=
+tyle=3D"color: rgb(204,120,50);"> </span>}<br>    }<br><br>    <span style=
+=3D"color: rgb(98,151,85);">/**<br></span><span style=3D"color: rgb(98,151,=
+85);"> * =E4=BD=BF=E7=94=A8=E6=A8=A1=E5=92=8C=E6=8C=87=E6=95=B0=E7=94=9F=E6=
+=88=90RSA=E7=A7=81=E9=92=A5<br></span><span style=3D"color: rgb(98,151,85);=
+"> * =E6=B3=A8=E6=84=8F=EF=BC=9A=E3=80=90=E6=AD=A4=E4=BB=A3=E7=A0=81=E7=94=
+=A8=E4=BA=86=E9=BB=98=E8=AE=A4=E8=A1=A5=E4=BD=8D=E6=96=B9=E5=BC=8F=EF=BC=8C=
+=E4=B8=BARSA/None/PKCS1Padding=EF=BC=8C=E4=B8=8D=E5=90=8CJDK=E9=BB=98=E8=AE=
+=A4=E7=9A=84=E8=A1=A5=E4=BD=8D=E6=96=B9=E5=BC=8F=E5=8F=AF=E8=83=BD=E4=B8=8D=
+=E5=90=8C=EF=BC=8C=E5=A6=82Android=E9=BB=98=E8=AE=A4=E6=98=AFRSA<br></span>=
+<span style=3D"color: rgb(98,151,85);"> * /None/NoPadding=E3=80=91<br></spa=
+n><span style=3D"color: rgb(98,151,85);"> *<br></span><span style=3D"color:=
+ rgb(98,151,85);"> * @param </span><span style=3D"color: rgb(138,101,59);">=
+modulus<br></span><span style=3D"color: rgb(138,101,59);"> </span><span sty=
+le=3D"color: rgb(98,151,85);">* =E6=A8=A1<br></span><span style=3D"color: r=
+gb(98,151,85);"> * @param </span><span style=3D"color: rgb(138,101,59);">ex=
+ponent<br></span><span style=3D"color: rgb(138,101,59);"> </span><span styl=
+e=3D"color: rgb(98,151,85);">* =E6=8C=87=E6=95=B0<br></span><span style=3D"=
+color: rgb(98,151,85);"> * @return<br></span><span style=3D"color: rgb(98,1=
+51,85);"> */<br></span><span style=3D"color: rgb(98,151,85);"> </span><span=
+ style=3D"color: rgb(204,120,50);">public static </span>RSAPrivateKey <span=
+ style=3D"color: rgb(255,198,109);">getPrivateKey</span>(String modulus<spa=
+n style=3D"color: rgb(204,120,50);">, </span>String exponent) {<br>        =
+<span style=3D"color: rgb(204,120,50);">try </span>{<br>            BigInte=
+ger b1 =3D <span style=3D"color: rgb(204,120,50);">new </span>BigInteger(mo=
+dulus)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"co=
+lor: rgb(204,120,50);"> </span>BigInteger b2 =3D <span style=3D"color: rgb(=
+204,120,50);">new </span>BigInteger(exponent)<span style=3D"color: rgb(204,=
+120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>KeyFa=
+ctory keyFactory =3D KeyFactory.<span>getInstance</span>(<span style=3D"col=
+or: rgb(106,135,89);">"RSA"</span>)<span style=3D"color: rgb(204,120,50);">=
+;<br></span><span style=3D"color: rgb(204,120,50);"> </span>RSAPrivateKeySp=
+ec keySpec =3D <span style=3D"color: rgb(204,120,50);">new </span>RSAPrivat=
+eKeySpec(b1<span style=3D"color: rgb(204,120,50);">, </span>b2)<span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> return </span>(RSAPrivateKey) keyFactory.generatePrivate(keySpec)<sp=
+an style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(=
+204,120,50);"> </span>} <span style=3D"color: rgb(204,120,50);">catch </spa=
+n>(Exception e) {<br>            e.printStackTrace()<span style=3D"color: r=
+gb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> retur=
+n null;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br>    =
+}<br><br>    <span style=3D"color: rgb(98,151,85);">/**<br></span><span sty=
+le=3D"color: rgb(98,151,85);"> * =E5=85=AC=E9=92=A5=E5=8A=A0=E5=AF=86<br></=
+span><span style=3D"color: rgb(98,151,85);"> *<br></span><span style=3D"col=
+or: rgb(98,151,85);"> * @param </span><span style=3D"color: rgb(138,101,59)=
+;">data<br></span><span style=3D"color: rgb(138,101,59);"> </span><span sty=
+le=3D"color: rgb(98,151,85);">* @param </span><span style=3D"color: rgb(138=
+,101,59);">publicKey<br></span><span style=3D"color: rgb(138,101,59);"> </s=
+pan><span style=3D"color: rgb(98,151,85);">* @return<br></span><span style=
+=3D"color: rgb(98,151,85);"> * @throws Exception<br></span><span style=3D"c=
+olor: rgb(98,151,85);"> */<br></span><span style=3D"color: rgb(98,151,85);"=
+> </span><span style=3D"color: rgb(204,120,50);">public static </span>Strin=
+g <span style=3D"color: rgb(255,198,109);">encryptByPublicKey</span>(String=
+ data<span style=3D"color: rgb(204,120,50);">, </span>RSAPublicKey publicKe=
+y)<br>            <span style=3D"color: rgb(204,120,50);">throws </span>Exc=
+eption {<br>        Cipher cipher =3D Cipher.<span>getInstance</span>(<span=
+ style=3D"color: rgb(106,135,89);">"RSA"</span>)<span style=3D"color: rgb(2=
+04,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>ci=
+pher.init(Cipher.<span style=3D"color: rgb(152,118,170);">ENCRYPT_MODE</spa=
+n><span style=3D"color: rgb(204,120,50);">, </span>publicKey)<span style=3D=
+"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50)=
+;"> </span><span style=3D"color: rgb(128,128,128);">// =E6=A8=A1=E9=95=BF<b=
+r></span><span style=3D"color: rgb(128,128,128);"> </span><span style=3D"co=
+lor: rgb(204,120,50);">int </span>key_len =3D publicKey.getModulus().bitLen=
+gth() / <span style=3D"color: rgb(104,151,187);">8</span><span style=3D"col=
+or: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> =
+</span><span style=3D"color: rgb(128,128,128);">// =E5=8A=A0=E5=AF=86=E6=95=
+=B0=E6=8D=AE=E9=95=BF=E5=BA=A6 &lt;=3D =E6=A8=A1=E9=95=BF-11<br></span><spa=
+n style=3D"color: rgb(128,128,128);"> </span>String[] datas =3D <span>split=
+String</span>(data<span style=3D"color: rgb(204,120,50);">, </span>key_len =
+- <span style=3D"color: rgb(104,151,187);">11</span>)<span style=3D"color: =
+rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </sp=
+an>String mi =3D <span style=3D"color: rgb(106,135,89);">""</span><span sty=
+le=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,12=
+0,50);"> </span><span style=3D"color: rgb(128,128,128);">//=E5=A6=82=E6=9E=
+=9C=E6=98=8E=E6=96=87=E9=95=BF=E5=BA=A6=E5=A4=A7=E4=BA=8E=E6=A8=A1=E9=95=BF=
+-11=E5=88=99=E8=A6=81=E5=88=86=E7=BB=84=E5=8A=A0=E5=AF=86<br></span><span s=
+tyle=3D"color: rgb(128,128,128);"> </span><span style=3D"color: rgb(204,120=
+,50);">for </span>(String s : datas) {<br>            mi +=3D <span>bcd2Str=
+</span>(cipher.doFinal(s.getBytes()))<span style=3D"color: rgb(204,120,50);=
+">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br>        =
+<span style=3D"color: rgb(204,120,50);">return </span>mi<span style=3D"colo=
+r: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> <=
+/span>}<br><br>    <span style=3D"color: rgb(204,120,50);">public static </=
+span>String <span style=3D"color: rgb(255,198,109);">encrypt2Base64ByPublic=
+Key</span>(String data<span style=3D"color: rgb(204,120,50);">, </span>RSAP=
+ublicKey publicKey)<br>            <span style=3D"color: rgb(204,120,50);">=
+throws </span>Exception {<br>        Cipher cipher =3D Cipher.<span>getInst=
+ance</span>(<span style=3D"color: rgb(106,135,89);">"RSA"</span>)<span styl=
+e=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120=
+,50);"> </span>cipher.init(Cipher.<span style=3D"color: rgb(152,118,170);">=
+ENCRYPT_MODE</span><span style=3D"color: rgb(204,120,50);">, </span>publicK=
+ey)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color=
+: rgb(204,120,50);"> </span><span style=3D"color: rgb(128,128,128);">// =E6=
+=A8=A1=E9=95=BF<br></span><span style=3D"color: rgb(128,128,128);"> </span>=
+<span style=3D"color: rgb(204,120,50);">int </span>key_len =3D publicKey.ge=
+tModulus().bitLength() / <span style=3D"color: rgb(104,151,187);">8</span><=
+span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rg=
+b(204,120,50);"> </span><span style=3D"color: rgb(128,128,128);">// =E5=8A=
+=A0=E5=AF=86=E6=95=B0=E6=8D=AE=E9=95=BF=E5=BA=A6 &lt;=3D =E6=A8=A1=E9=95=BF=
+-11<br></span><span style=3D"color: rgb(128,128,128);"> </span>String[] dat=
+as =3D <span>splitString</span>(data<span style=3D"color: rgb(204,120,50);"=
+>, </span>key_len - <span style=3D"color: rgb(104,151,187);">11</span>)<spa=
+n style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(2=
+04,120,50);"> </span>String mi =3D <span style=3D"color: rgb(106,135,89);">=
+""</span><span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D=
+"color: rgb(204,120,50);"> </span>BASE64Encoder base64Encoder =3D <span sty=
+le=3D"color: rgb(204,120,50);">new </span>BASE64Encoder()<span style=3D"col=
+or: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> =
+</span><span style=3D"color: rgb(128,128,128);">//=E5=A6=82=E6=9E=9C=E6=98=
+=8E=E6=96=87=E9=95=BF=E5=BA=A6=E5=A4=A7=E4=BA=8E=E6=A8=A1=E9=95=BF-11=E5=88=
+=99=E8=A6=81=E5=88=86=E7=BB=84=E5=8A=A0=E5=AF=86<br></span><span style=3D"c=
+olor: rgb(128,128,128);"> </span><span style=3D"color: rgb(204,120,50);">fo=
+r </span>(String s : datas) {<br>            mi +=3D base64Encoder.encode(c=
+ipher.doFinal(s.getBytes()))<span style=3D"color: rgb(204,120,50);">;<br></=
+span><span style=3D"color: rgb(204,120,50);"> </span>}<br>        <span sty=
+le=3D"color: rgb(204,120,50);">return </span>mi<span style=3D"color: rgb(20=
+4,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<b=
+r><br>    <span style=3D"color: rgb(98,151,85);">/**<br></span><span style=
+=3D"color: rgb(98,151,85);"> * =E7=A7=81=E9=92=A5=E8=A7=A3=E5=AF=86<br></sp=
+an><span style=3D"color: rgb(98,151,85);"> *<br></span><span style=3D"color=
+: rgb(98,151,85);"> * @param </span><span style=3D"color: rgb(138,101,59);"=
+>data<br></span><span style=3D"color: rgb(138,101,59);"> </span><span style=
+=3D"color: rgb(98,151,85);">* @param </span><span style=3D"color: rgb(138,1=
+01,59);">privateKey<br></span><span style=3D"color: rgb(138,101,59);"> </sp=
+an><span style=3D"color: rgb(98,151,85);">* @return<br></span><span style=
+=3D"color: rgb(98,151,85);"> * @throws Exception<br></span><span style=3D"c=
+olor: rgb(98,151,85);"> */<br></span><span style=3D"color: rgb(98,151,85);"=
+> </span><span style=3D"color: rgb(204,120,50);">public static </span>Strin=
+g <span style=3D"color: rgb(255,198,109);">decryptByPrivateKey</span>(Strin=
+g data<span style=3D"color: rgb(204,120,50);">, </span>RSAPrivateKey privat=
+eKey)<br>            <span style=3D"color: rgb(204,120,50);">throws </span>=
+Exception {<br>        Cipher cipher =3D Cipher.<span>getInstance</span>(<s=
+pan style=3D"color: rgb(106,135,89);">"RSA"</span>)<span style=3D"color: rg=
+b(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span=
+>cipher.init(Cipher.<span style=3D"color: rgb(152,118,170);">DECRYPT_MODE</=
+span><span style=3D"color: rgb(204,120,50);">, </span>privateKey)<span styl=
+e=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120=
+,50);"> </span><span style=3D"color: rgb(128,128,128);">//=E6=A8=A1=E9=95=
+=BF<br></span><span style=3D"color: rgb(128,128,128);"> </span><span style=
+=3D"color: rgb(204,120,50);">int </span>key_len =3D privateKey.getModulus()=
+.bitLength() / <span style=3D"color: rgb(104,151,187);">8</span><span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> byte</span>[] bytes =3D data.getBytes()<span style=3D"color: rgb(204=
+,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> byte</span>=
+[] bcd =3D <span>ASCII_To_BCD</span>(bytes<span style=3D"color: rgb(204,120=
+,50);">, </span>bytes.<span style=3D"color: rgb(152,118,170);">length</span=
+>)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color:=
+ rgb(204,120,50);"> </span><span style=3D"color: rgb(128,128,128);">//Syste=
+m.err.println(bcd.length);<br></span><span style=3D"color: rgb(128,128,128)=
+;"> //=E5=A6=82=E6=9E=9C=E5=AF=86=E6=96=87=E9=95=BF=E5=BA=A6=E5=A4=A7=E4=BA=
+=8E=E6=A8=A1=E9=95=BF=E5=88=99=E8=A6=81=E5=88=86=E7=BB=84=E8=A7=A3=E5=AF=86=
+<br></span><span style=3D"color: rgb(128,128,128);"> </span>String ming =3D=
+ <span style=3D"color: rgb(106,135,89);">""</span><span style=3D"color: rgb=
+(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> byte</s=
+pan>[][] arrays =3D <span>splitArray</span>(bcd<span style=3D"color: rgb(20=
+4,120,50);">, </span>key_len)<span style=3D"color: rgb(204,120,50);">;<br><=
+/span><span style=3D"color: rgb(204,120,50);"> for</span>(<span style=3D"co=
+lor: rgb(204,120,50);">byte</span>[] arr : arrays){<br>            ming +=
+=3D <span style=3D"color: rgb(204,120,50);">new </span>String(cipher.doFina=
+l(arr))<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"c=
+olor: rgb(204,120,50);"> </span>}<br>        <span style=3D"color: rgb(204,=
+120,50);">return </span>ming<span style=3D"color: rgb(204,120,50);">;<br></=
+span><span style=3D"color: rgb(204,120,50);"> </span>}<br><br>    <span sty=
+le=3D"color: rgb(98,151,85);">/**<br></span><span style=3D"color: rgb(98,15=
+1,85);"> * =E7=A7=81=E9=92=A5=E8=A7=A3=E5=AF=86<br></span><span style=3D"co=
+lor: rgb(98,151,85);"> *<br></span><span style=3D"color: rgb(98,151,85);"> =
+* @param </span><span style=3D"color: rgb(138,101,59);">data<br></span><spa=
+n style=3D"color: rgb(138,101,59);"> </span><span style=3D"color: rgb(98,15=
+1,85);">* @param </span><span style=3D"color: rgb(138,101,59);">privateKey<=
+br></span><span style=3D"color: rgb(138,101,59);"> </span><span style=3D"co=
+lor: rgb(98,151,85);">* @return<br></span><span style=3D"color: rgb(98,151,=
+85);"> * @throws Exception<br></span><span style=3D"color: rgb(98,151,85);"=
+> */<br></span><span style=3D"color: rgb(98,151,85);"> </span><span style=
+=3D"color: rgb(204,120,50);">public static </span>String <span style=3D"col=
+or: rgb(255,198,109);">decryptBase64StrByPrivateKey</span>(String data<span=
+ style=3D"color: rgb(204,120,50);">, </span>RSAPrivateKey privateKey)<br>  =
+          <span style=3D"color: rgb(204,120,50);">throws </span>Exception {=
+<br>        Cipher cipher =3D Cipher.<span>getInstance</span>(<span style=
+=3D"color: rgb(106,135,89);">"RSA"</span>)<span style=3D"color: rgb(204,120=
+,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>cipher.i=
+nit(Cipher.<span style=3D"color: rgb(152,118,170);">DECRYPT_MODE</span><spa=
+n style=3D"color: rgb(204,120,50);">, </span>privateKey)<span style=3D"colo=
+r: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> <=
+/span><span style=3D"color: rgb(128,128,128);">//=E6=A8=A1=E9=95=BF<br></sp=
+an><span style=3D"color: rgb(128,128,128);"> </span><span style=3D"color: r=
+gb(204,120,50);">int </span>key_len =3D privateKey.getModulus().bitLength()=
+ / <span style=3D"color: rgb(104,151,187);">8</span><span style=3D"color: r=
+gb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </spa=
+n>BASE64Decoder base64Decoder=3D <span style=3D"color: rgb(204,120,50);">ne=
+w </span>BASE64Decoder()<span style=3D"color: rgb(204,120,50);">;<br></span=
+><span style=3D"color: rgb(204,120,50);"> byte</span>[] buffer=3D base64Dec=
+oder.decodeBuffer(data)<span style=3D"color: rgb(204,120,50);">;<br></span>=
+<span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(1=
+28,128,128);">//=E5=A6=82=E6=9E=9C=E5=AF=86=E6=96=87=E9=95=BF=E5=BA=A6=E5=
+=A4=A7=E4=BA=8E=E6=A8=A1=E9=95=BF=E5=88=99=E8=A6=81=E5=88=86=E7=BB=84=E8=A7=
+=A3=E5=AF=86<br></span><span style=3D"color: rgb(128,128,128);"> </span>Str=
+ing ming =3D <span style=3D"color: rgb(106,135,89);">""</span><span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> byte</span>[][] arrays =3D <span>splitArray</span>(buffer<span style=
+=3D"color: rgb(204,120,50);">, </span>key_len)<span style=3D"color: rgb(204=
+,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> for</span>(=
+<span style=3D"color: rgb(204,120,50);">byte</span>[] arr : arrays){<br>   =
+         ming +=3D <span style=3D"color: rgb(204,120,50);">new </span>Strin=
+g(cipher.doFinal(arr))<span style=3D"color: rgb(204,120,50);">;<br></span><=
+span style=3D"color: rgb(204,120,50);"> </span>}<br>        <span style=3D"=
+color: rgb(204,120,50);">return </span>ming<span style=3D"color: rgb(204,12=
+0,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br><b=
+r>    <span style=3D"color: rgb(204,120,50);">public static </span>String <=
+span style=3D"color: rgb(255,198,109);">decryptByPrivateKey</span>(String d=
+ata<span style=3D"color: rgb(204,120,50);">, </span>RSAPrivateKey privateKe=
+y<span style=3D"color: rgb(204,120,50);">,int </span>flag) <span style=3D"c=
+olor: rgb(204,120,50);">throws </span>Exception {<br>        <span style=3D=
+"color: rgb(204,120,50);">if</span>(flag =3D=3D <span style=3D"color: rgb(1=
+04,151,187);">1</span>){<br>            <span style=3D"color: rgb(204,120,5=
+0);">return </span><span>decryptByPrivateKey</span>(data<span style=3D"colo=
+r: rgb(204,120,50);">,</span>privateKey)<span style=3D"color: rgb(204,120,5=
+0);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<span sty=
+le=3D"color: rgb(204,120,50);">else</span>{<br>            <span style=3D"c=
+olor: rgb(204,120,50);">return </span><span>decryptBase64StrByPrivateKey</s=
+pan>(data<span style=3D"color: rgb(204,120,50);">,</span>privateKey)<span s=
+tyle=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,=
+120,50);"> </span>}<br>    }<br><br>    <span style=3D"color: rgb(98,151,85=
+);">/**<br></span><span style=3D"color: rgb(98,151,85);"> * ASCII=E7=A0=81=
+=E8=BD=ACBCD=E7=A0=81<br></span><span style=3D"color: rgb(98,151,85);"> *<b=
+r></span><span style=3D"color: rgb(98,151,85);"> */<br></span><span style=
+=3D"color: rgb(98,151,85);"> </span><span style=3D"color: rgb(204,120,50);"=
+>public static byte</span>[] <span style=3D"color: rgb(255,198,109);">ASCII=
+_To_BCD</span>(<span style=3D"color: rgb(204,120,50);">byte</span>[] ascii<=
+span style=3D"color: rgb(204,120,50);">, int </span>asc_len) {<br>        <=
+span style=3D"color: rgb(204,120,50);">byte</span>[] bcd =3D <span style=3D=
+"color: rgb(204,120,50);">new byte</span>[asc_len / <span style=3D"color: r=
+gb(104,151,187);">2</span>]<span style=3D"color: rgb(204,120,50);">;<br></s=
+pan><span style=3D"color: rgb(204,120,50);"> int </span>j =3D <span style=
+=3D"color: rgb(104,151,187);">0</span><span style=3D"color: rgb(204,120,50)=
+;">;<br></span><span style=3D"color: rgb(204,120,50);"> for </span>(<span s=
+tyle=3D"color: rgb(204,120,50);">int </span>i =3D <span style=3D"color: rgb=
+(104,151,187);">0</span><span style=3D"color: rgb(204,120,50);">; </span>i =
+&lt; (asc_len + <span style=3D"color: rgb(104,151,187);">1</span>) / <span =
+style=3D"color: rgb(104,151,187);">2</span><span style=3D"color: rgb(204,12=
+0,50);">; </span>i++) {<br>            bcd[i] =3D <span>asc_to_bcd</span>(a=
+scii[j++])<span style=3D"color: rgb(204,120,50);">;<br></span><span style=
+=3D"color: rgb(204,120,50);"> </span>bcd[i] =3D (<span style=3D"color: rgb(=
+204,120,50);">byte</span>) (((j &gt;=3D asc_len) ? <span style=3D"color: rg=
+b(104,151,187);">0x00 </span>: <span>asc_to_bcd</span>(ascii[j++])) + (bcd[=
+i] &lt;&lt; <span style=3D"color: rgb(104,151,187);">4</span>))<span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> </span>}<br>        <span style=3D"color: rgb(204,120,50);">return <=
+/span>bcd<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D=
+"color: rgb(204,120,50);"> </span>}<br><br>    <span style=3D"color: rgb(20=
+4,120,50);">public static byte </span><span style=3D"color: rgb(255,198,109=
+);">asc_to_bcd</span>(<span style=3D"color: rgb(204,120,50);">byte </span>a=
+sc) {<br>        <span style=3D"color: rgb(204,120,50);">byte </span>bcd<sp=
+an style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(=
+204,120,50);"><br></span><span style=3D"color: rgb(204,120,50);"> if </span=
+>((asc &gt;=3D <span style=3D"color: rgb(106,135,89);">'0'</span>) &amp;&am=
+p; (asc &lt;=3D <span style=3D"color: rgb(106,135,89);">'9'</span>))<br>   =
+         bcd =3D (<span style=3D"color: rgb(204,120,50);">byte</span>) (asc=
+ - <span style=3D"color: rgb(106,135,89);">'0'</span>)<span style=3D"color:=
+ rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> els=
+e if </span>((asc &gt;=3D <span style=3D"color: rgb(106,135,89);">'A'</span=
+>) &amp;&amp; (asc &lt;=3D <span style=3D"color: rgb(106,135,89);">'F'</spa=
+n>))<br>            bcd =3D (<span style=3D"color: rgb(204,120,50);">byte</=
+span>) (asc - <span style=3D"color: rgb(106,135,89);">'A' </span>+ <span st=
+yle=3D"color: rgb(104,151,187);">10</span>)<span style=3D"color: rgb(204,12=
+0,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> else if </span=
+>((asc &gt;=3D <span style=3D"color: rgb(106,135,89);">'a'</span>) &amp;&am=
+p; (asc &lt;=3D <span style=3D"color: rgb(106,135,89);">'f'</span>))<br>   =
+         bcd =3D (<span style=3D"color: rgb(204,120,50);">byte</span>) (asc=
+ - <span style=3D"color: rgb(106,135,89);">'a' </span>+ <span style=3D"colo=
+r: rgb(104,151,187);">10</span>)<span style=3D"color: rgb(204,120,50);">;<b=
+r></span><span style=3D"color: rgb(204,120,50);"> else<br></span><span styl=
+e=3D"color: rgb(204,120,50);"> </span>bcd =3D (<span style=3D"color: rgb(20=
+4,120,50);">byte</span>) (asc - <span style=3D"color: rgb(104,151,187);">48=
+</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"=
+color: rgb(204,120,50);"> return </span>bcd<span style=3D"color: rgb(204,12=
+0,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br><b=
+r>    <span style=3D"color: rgb(98,151,85);">/**<br></span><span style=3D"c=
+olor: rgb(98,151,85);"> * BCD=E8=BD=AC=E5=AD=97=E7=AC=A6=E4=B8=B2<br></span=
+><span style=3D"color: rgb(98,151,85);"> */<br></span><span style=3D"color:=
+ rgb(98,151,85);"> </span><span style=3D"color: rgb(204,120,50);">public st=
+atic </span>String <span style=3D"color: rgb(255,198,109);">bcd2Str</span>(=
+<span style=3D"color: rgb(204,120,50);">byte</span>[] bytes) {<br>        <=
+span style=3D"color: rgb(204,120,50);">char </span>temp[] =3D <span style=
+=3D"color: rgb(204,120,50);">new char</span>[bytes.<span style=3D"color: rg=
+b(152,118,170);">length </span>* <span style=3D"color: rgb(104,151,187);">2=
+</span>]<span style=3D"color: rgb(204,120,50);">, </span>val<span style=3D"=
+color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);=
+"><br></span><span style=3D"color: rgb(204,120,50);"> for </span>(<span sty=
+le=3D"color: rgb(204,120,50);">int </span>i =3D <span style=3D"color: rgb(1=
+04,151,187);">0</span><span style=3D"color: rgb(204,120,50);">; </span>i &l=
+t; bytes.<span style=3D"color: rgb(152,118,170);">length</span><span style=
+=3D"color: rgb(204,120,50);">; </span>i++) {<br>            val =3D (<span =
+style=3D"color: rgb(204,120,50);">char</span>) (((bytes[i] &amp; <span styl=
+e=3D"color: rgb(104,151,187);">0xf0</span>) &gt;&gt; <span style=3D"color: =
+rgb(104,151,187);">4</span>) &amp; <span style=3D"color: rgb(104,151,187);"=
+>0x0f</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span styl=
+e=3D"color: rgb(204,120,50);"> </span>temp[i * <span style=3D"color: rgb(10=
+4,151,187);">2</span>] =3D (<span style=3D"color: rgb(204,120,50);">char</s=
+pan>) (val &gt; <span style=3D"color: rgb(104,151,187);">9 </span>? val + <=
+span style=3D"color: rgb(106,135,89);">'A' </span>- <span style=3D"color: r=
+gb(104,151,187);">10 </span>: val + <span style=3D"color: rgb(106,135,89);"=
+>'0'</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=
+=3D"color: rgb(204,120,50);"><br></span><span style=3D"color: rgb(204,120,5=
+0);"> </span>val =3D (<span style=3D"color: rgb(204,120,50);">char</span>) =
+(bytes[i] &amp; <span style=3D"color: rgb(104,151,187);">0x0f</span>)<span =
+style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204=
+,120,50);"> </span>temp[i * <span style=3D"color: rgb(104,151,187);">2 </sp=
+an>+ <span style=3D"color: rgb(104,151,187);">1</span>] =3D (<span style=3D=
+"color: rgb(204,120,50);">char</span>) (val &gt; <span style=3D"color: rgb(=
+104,151,187);">9 </span>? val + <span style=3D"color: rgb(106,135,89);">'A'=
+ </span>- <span style=3D"color: rgb(104,151,187);">10 </span>: val + <span =
+style=3D"color: rgb(106,135,89);">'0'</span>)<span style=3D"color: rgb(204,=
+120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br>=
+        <span style=3D"color: rgb(204,120,50);">return new </span>String(te=
+mp)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color=
+: rgb(204,120,50);"> </span>}<br><br>    <span style=3D"color: rgb(98,151,8=
+5);">/**<br></span><span style=3D"color: rgb(98,151,85);"> * =E6=8B=86=E5=
+=88=86=E5=AD=97=E7=AC=A6=E4=B8=B2<br></span><span style=3D"color: rgb(98,15=
+1,85);"> */<br></span><span style=3D"color: rgb(98,151,85);"> </span><span =
+style=3D"color: rgb(204,120,50);">public static </span>String[] <span style=
+=3D"color: rgb(255,198,109);">splitString</span>(String string<span style=
+=3D"color: rgb(204,120,50);">, int </span>len) {<br>        <span style=3D"=
+color: rgb(204,120,50);">int </span>x =3D string.length() / len<span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> int </span>y =3D string.length() % len<span style=3D"color: rgb(204,=
+120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> int </span>z=
+ =3D <span style=3D"color: rgb(104,151,187);">0</span><span style=3D"color:=
+ rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> if =
+</span>(y !=3D <span style=3D"color: rgb(104,151,187);">0</span>) {<br>    =
+        z =3D <span style=3D"color: rgb(104,151,187);">1</span><span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> </span>}<br>        String[] strings =3D <span style=3D"color: rgb(2=
+04,120,50);">new </span>String[x + z]<span style=3D"color: rgb(204,120,50);=
+">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>String str =
+=3D <span style=3D"color: rgb(106,135,89);">""</span><span style=3D"color: =
+rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> for =
+</span>(<span style=3D"color: rgb(204,120,50);">int </span>i=3D<span style=
+=3D"color: rgb(104,151,187);">0</span><span style=3D"color: rgb(204,120,50)=
+;">; </span>i&lt;x+z<span style=3D"color: rgb(204,120,50);">; </span>i++) {=
+<br>            <span style=3D"color: rgb(204,120,50);">if </span>(i=3D=3Dx=
++z-<span style=3D"color: rgb(104,151,187);">1 </span>&amp;&amp; y!=3D<span =
+style=3D"color: rgb(104,151,187);">0</span>) {<br>                str =3D s=
+tring.substring(i*len<span style=3D"color: rgb(204,120,50);">, </span>i*len=
++y)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color=
+: rgb(204,120,50);"> </span>}<span style=3D"color: rgb(204,120,50);">else</=
+span>{<br>                str =3D string.substring(i*len<span style=3D"colo=
+r: rgb(204,120,50);">, </span>i*len+len)<span style=3D"color: rgb(204,120,5=
+0);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br>     =
+       strings[i] =3D str<span style=3D"color: rgb(204,120,50);">;<br></spa=
+n><span style=3D"color: rgb(204,120,50);"> </span>}<br>        <span style=
+=3D"color: rgb(204,120,50);">return </span>strings<span style=3D"color: rgb=
+(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>=
+}<br><br>    <span style=3D"color: rgb(98,151,85);">/**<br></span><span sty=
+le=3D"color: rgb(98,151,85);"> *=E6=8B=86=E5=88=86=E6=95=B0=E7=BB=84<br></s=
+pan><span style=3D"color: rgb(98,151,85);"> */<br></span><span style=3D"col=
+or: rgb(98,151,85);"> </span><span style=3D"color: rgb(204,120,50);">public=
+ static byte</span>[][] <span style=3D"color: rgb(255,198,109);">splitArray=
+</span>(<span style=3D"color: rgb(204,120,50);">byte</span>[] data<span sty=
+le=3D"color: rgb(204,120,50);">,int </span>len){<br>        <span style=3D"=
+color: rgb(204,120,50);">int </span>x =3D data.<span style=3D"color: rgb(15=
+2,118,170);">length </span>/ len<span style=3D"color: rgb(204,120,50);">;<b=
+r></span><span style=3D"color: rgb(204,120,50);"> int </span>y =3D data.<sp=
+an style=3D"color: rgb(152,118,170);">length </span>% len<span style=3D"col=
+or: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> =
+int </span>z =3D <span style=3D"color: rgb(104,151,187);">0</span><span sty=
+le=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,12=
+0,50);"> if</span>(y!=3D<span style=3D"color: rgb(104,151,187);">0</span>){=
+<br>            z =3D <span style=3D"color: rgb(104,151,187);">1</span><spa=
+n style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(2=
+04,120,50);"> </span>}<br>        <span style=3D"color: rgb(204,120,50);">b=
+yte</span>[][] arrays =3D <span style=3D"color: rgb(204,120,50);">new byte<=
+/span>[x+z][]<span style=3D"color: rgb(204,120,50);">;<br></span><span styl=
+e=3D"color: rgb(204,120,50);"> byte</span>[] arr<span style=3D"color: rgb(2=
+04,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> for</span=
+>(<span style=3D"color: rgb(204,120,50);">int </span>i=3D<span style=3D"col=
+or: rgb(104,151,187);">0</span><span style=3D"color: rgb(204,120,50);">; </=
+span>i&lt;x+z<span style=3D"color: rgb(204,120,50);">; </span>i++){<br>    =
+        arr =3D <span style=3D"color: rgb(204,120,50);">new byte</span>[len=
+]<span style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: =
+rgb(204,120,50);"> if</span>(i=3D=3Dx+z-<span style=3D"color: rgb(104,151,1=
+87);">1 </span>&amp;&amp; y!=3D<span style=3D"color: rgb(104,151,187);">0</=
+span>){<br>                System.<span>arraycopy</span>(data<span style=3D=
+"color: rgb(204,120,50);">, </span>i*len<span style=3D"color: rgb(204,120,5=
+0);">, </span>arr<span style=3D"color: rgb(204,120,50);">, </span><span sty=
+le=3D"color: rgb(104,151,187);">0</span><span style=3D"color: rgb(204,120,5=
+0);">, </span>y)<span style=3D"color: rgb(204,120,50);">;<br></span><span s=
+tyle=3D"color: rgb(204,120,50);"> </span>}<span style=3D"color: rgb(204,120=
+,50);">else</span>{<br>                System.<span>arraycopy</span>(data<s=
+pan style=3D"color: rgb(204,120,50);">, </span>i*len<span style=3D"color: r=
+gb(204,120,50);">, </span>arr<span style=3D"color: rgb(204,120,50);">, </sp=
+an><span style=3D"color: rgb(104,151,187);">0</span><span style=3D"color: r=
+gb(204,120,50);">, </span>len)<span style=3D"color: rgb(204,120,50);">;<br>=
+</span><span style=3D"color: rgb(204,120,50);"> </span>}<br>            arr=
+ays[i] =3D arr<span style=3D"color: rgb(204,120,50);">;<br></span><span sty=
+le=3D"color: rgb(204,120,50);"> </span>}<br>        <span style=3D"color: r=
+gb(204,120,50);">return </span>arrays<span style=3D"color: rgb(204,120,50);=
+">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>}<br><br>    =
+<span style=3D"color: rgb(204,120,50);">public static </span>RSAPublicKey <=
+span style=3D"color: rgb(255,198,109);">loadPublicKey</span>(String publicK=
+ey) <span style=3D"color: rgb(204,120,50);">throws </span>Exception{<br>   =
+     <span style=3D"color: rgb(204,120,50);">try </span>{<br>            <s=
+pan style=3D"color: rgb(204,120,50);">byte</span>[] buffer=3D Base64.<span>=
+decode</span>(publicKey<span style=3D"color: rgb(204,120,50);">, </span>Bas=
+e64.<span style=3D"color: rgb(152,118,170);">NO_WRAP</span>)<span style=3D"=
+color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);=
+"> </span>KeyFactory keyFactory=3D KeyFactory.<span>getInstance</span>(<spa=
+n style=3D"color: rgb(106,135,89);">"RSA"</span>)<span style=3D"color: rgb(=
+204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>X=
+509EncodedKeySpec keySpec=3D <span style=3D"color: rgb(204,120,50);">new </=
+span>X509EncodedKeySpec(buffer)<span style=3D"color: rgb(204,120,50);">;<br=
+></span><span style=3D"color: rgb(204,120,50);"> return </span>(RSAPublicKe=
+y) keyFactory.generatePublic(keySpec)<span style=3D"color: rgb(204,120,50);=
+">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>} <span style=
+=3D"color: rgb(204,120,50);">catch </span>(NoSuchAlgorithmException e) {<br=
+>            <span style=3D"color: rgb(204,120,50);">throw new </span>Excep=
+tion(<span style=3D"color: rgb(106,135,89);">"=E6=97=A0=E6=AD=A4=E7=AE=97=
+=E6=B3=95"</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span=
+ style=3D"color: rgb(204,120,50);"> </span>} <span style=3D"color: rgb(204,=
+120,50);">catch </span>(InvalidKeySpecException e) {<br>            <span s=
+tyle=3D"color: rgb(204,120,50);">throw new </span>Exception(<span style=3D"=
+color: rgb(106,135,89);">"=E5=85=AC=E9=92=A5=E9=9D=9E=E6=B3=95"</span>)<spa=
+n style=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(2=
+04,120,50);"> </span>} <span style=3D"color: rgb(204,120,50);">catch </span=
+>(NullPointerException e) {<br>            <span style=3D"color: rgb(204,12=
+0,50);">throw new </span>Exception(<span style=3D"color: rgb(106,135,89);">=
+"=E5=85=AC=E9=92=A5=E6=95=B0=E6=8D=AE=E4=B8=BA=E7=A9=BA"</span>)<span style=
+=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,=
+50);"> </span>}<br>    }<br><br>    <span style=3D"color: rgb(204,120,50);"=
+>public static </span>RSAPrivateKey <span style=3D"color: rgb(255,198,109);=
+">loadPrivateKey</span>(String privateKeyStr)<br>            <span style=3D=
+"color: rgb(204,120,50);">throws </span>Exception {<br>        <span style=
+=3D"color: rgb(204,120,50);">try </span>{<br>            <span style=3D"col=
+or: rgb(204,120,50);">byte</span>[] buffer =3D Base64.<span>decode</span>(p=
+rivateKeyStr<span style=3D"color: rgb(204,120,50);">, </span>Base64.<span s=
+tyle=3D"color: rgb(152,118,170);">NO_WRAP</span>)<span style=3D"color: rgb(=
+204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);"> </span>P=
+KCS8EncodedKeySpec keySpec =3D <span style=3D"color: rgb(204,120,50);">new =
+</span>PKCS8EncodedKeySpec(buffer)<span style=3D"color: rgb(204,120,50);">;=
+<br></span><span style=3D"color: rgb(204,120,50);"> </span>KeyFactory keyFa=
+ctory =3D KeyFactory.<span>getInstance</span>(<span style=3D"color: rgb(106=
+,135,89);">"RSA"</span>)<span style=3D"color: rgb(204,120,50);">;<br></span=
+><span style=3D"color: rgb(204,120,50);"> return </span>(RSAPrivateKey) key=
+Factory.generatePrivate(keySpec)<span style=3D"color: rgb(204,120,50);">;<b=
+r></span><span style=3D"color: rgb(204,120,50);"> </span>} <span style=3D"c=
+olor: rgb(204,120,50);">catch </span>(NoSuchAlgorithmException e) {<br>    =
+        <span style=3D"color: rgb(204,120,50);">throw new </span>Exception(=
+<span style=3D"color: rgb(106,135,89);">"=E6=97=A0=E6=AD=A4=E7=AE=97=E6=B3=
+=95"</span>)<span style=3D"color: rgb(204,120,50);">;<br></span><span style=
+=3D"color: rgb(204,120,50);"> </span>} <span style=3D"color: rgb(204,120,50=
+);">catch </span>(InvalidKeySpecException e) {<br>            <span style=
+=3D"color: rgb(204,120,50);">throw new </span>Exception(<span style=3D"colo=
+r: rgb(106,135,89);">"=E7=A7=81=E9=92=A5=E9=9D=9E=E6=B3=95"</span>)<span st=
+yle=3D"color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,1=
+20,50);"> </span>} <span style=3D"color: rgb(204,120,50);">catch </span>(Nu=
+llPointerException e) {<br>            <span style=3D"color: rgb(204,120,50=
+);">throw new </span>Exception(<span style=3D"color: rgb(106,135,89);">"=E7=
+=A7=81=E9=92=A5=E6=95=B0=E6=8D=AE=E4=B8=BA=E7=A9=BA"</span>)<span style=3D"=
+color: rgb(204,120,50);">;<br></span><span style=3D"color: rgb(204,120,50);=
+"> </span>}<br>    }<br><br>}</pre>
+    </div>
+</body>
+</html>
+------=_Part_727099_281774452.1558058961584--
